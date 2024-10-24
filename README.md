@@ -9,3 +9,10 @@ The dataset used for this project is the **Large Movie Review Dataset** (IMDb), 
 - 25,000 highly polar movie reviews for testing
 
 For more details, refer to the [dataset's README file](https://ai.stanford.edu/~amaas/data/sentiment/).
+
+## Results
+The model is evaluated using accuracy, classification reports, confusion matrices, and ROC curves. The results are displayed visually using Matplotlib and Seaborn.
+
+## Acknowledgements
+The dataset is provided by the Stanford AI Lab.
+Special thanks to the contributors of the libraries used in this project.
